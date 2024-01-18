@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# Database
+db.json
+
+# Compiled output
+build
+
+# Others
+.DS_Store
